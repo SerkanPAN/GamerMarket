@@ -19,3 +19,24 @@ C:\Users\cn_og\Dropbox\YMS5151\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket
 C:\Users\cn_og\Dropbox\YMS5151\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Map.dll.config
 C:\Users\cn_og\Dropbox\YMS5151\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Model.pdb
 C:\Users\cn_og\Dropbox\YMS5151\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Model.dll.config
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.DAL.dll.config
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.DAL.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.DAL.pdb
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Core.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Map.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Model.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Core.pdb
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Core.dll.config
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Map.pdb
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Map.dll.config
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Model.pdb
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\GamerMarket.Model.dll.config
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\obj\Debug\GamerMarket.DAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\obj\Debug\GamerMarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\obj\Debug\GamerMarket.DAL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\obj\Debug\GamerMarket.DAL.dll
+C:\Users\LENOVO\Desktop\C#\Bitmiş Projeler\GamerMarket\GamerMarket.DAL\obj\Debug\GamerMarket.DAL.pdb
